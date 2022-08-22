@@ -54,3 +54,6 @@ CCEK.py -t 192.168.0.43 -a reboot
 
 ## Disclaimer
 The idea for this tool came after some guy sent curl requests to publicly-exposed ChromeCasts on the internet to spread PewDiePie propaganda. As this is documented functionality, you can't actually call this an exploit. Although one could wonder why this is possible without a single form of authentication.
+
+## Thanks to
+Thank you to @terremoth for updating the code to Python 3.
