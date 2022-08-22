@@ -2,8 +2,10 @@
 Controlling ChromeCasts though the command line. Made by [Brussec Security](https://brussec.com) with :heart:
 
 ## Requirements
-* Python
+* Python 3
 * Curl
+* pip
+* install requirements.txt with pip
 
 ## Installation
 
