@@ -4,8 +4,7 @@ Controlling ChromeCasts though the command line. Made by [Brussec Security](http
 ## Requirements
 * Python 3
 * Curl
-* pip
-* install requirements.txt with pip
+* Pip
 
 ## Installation
 
@@ -15,6 +14,7 @@ But just because I can, here are the commands:
 ```
 sudo apt-get install python curl
 git clone https://github.com/PabloBrusseel/CCEK.git
+pip3 install requirements.txt
 ```
 
 ## Usage
